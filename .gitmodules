@@ -1,0 +1,12 @@
+[submodule "util_board"]
+	path = util_board
+	url = https://github.com/johnathan-convertino-afrl/util_board.git
+[submodule "util_generators"]
+	path = util_generators
+	url = https://github.com/johnathan-convertino-afrl/util_generators.git
+[submodule "util_helper"]
+	path = util_helper
+	url = https://github.com/johnathan-convertino-afrl/util_helper.git
+[submodule "util_tcl"]
+	path = util_tcl
+	url = https://github.com/johnathan-convertino-afrl/util_tcl.git
