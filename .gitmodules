@@ -10,3 +10,6 @@
 [submodule "util_tcl"]
 	path = util_tcl
 	url = https://github.com/johnathan-convertino-afrl/util_tcl.git
+[submodule "util_boot_gen"]
+	path = util_boot_gen
+	url = https://github.com/johnathan-convertino-afrl/util_boot_gen.git
