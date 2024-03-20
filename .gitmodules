@@ -13,3 +13,6 @@
 [submodule "util_boot_gen"]
 	path = util_boot_gen
 	url = https://github.com/johnathan-convertino-afrl/util_boot_gen.git
+[submodule "util_fpga_binary_gen"]
+	path = util_fpga_binary_gen
+	url = https://github.com/johnathan-convertino-afrl/util_fpga_binary_gen.git
